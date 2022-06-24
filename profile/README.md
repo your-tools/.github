@@ -6,6 +6,7 @@ Everyone is invited to contribute !
 
 ## Rules
 
-* Take excellent care of each other
-* Use [optimistic merging](https://dmerej.info/blog/post/optimistic-merging/)
+* Take excellent care of each other.
+* Use [optimistic merging](https://dmerej.info/blog/post/optimistic-merging/) 
+  (merge fisrt, ask questions later) by default.
 * Don't take yourself so seriously ;)
