@@ -8,5 +8,5 @@ Everyone is invited to contribute !
 
 * Take excellent care of each other.
 * Use [optimistic merging](https://dmerej.info/blog/post/optimistic-merging/) 
-  (merge fisrt, ask questions later) by default.
+  (merge first, ask questions later) by default.
 * Don't take yourself so seriously ;)
